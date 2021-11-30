@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-30T18:35:48.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="mSmYdu6Vs4VEZKZa7ce6" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-30T22:32:05.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="AHu14OMQsY12odk0jOkb" version="15.8.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="898" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -132,7 +132,7 @@
         <mxCell id="pEfZy9Puv7aSzIvBMWyQ-51" value="coffee grounds" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="735" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pEfZy9Puv7aSzIvBMWyQ-52" value="Assumptions:&lt;br&gt;coffee ~ water&lt;br&gt;Negligible m&lt;sub&gt;water vapor&lt;br&gt;&lt;/sub&gt;Both creamers used equally &lt;br&gt;Coffee grounds retain about 2.2 times their mass in water &lt;br&gt;No losses of liquid in tubing &lt;br&gt;All coffee creamers have a density of 608.65 mg/mL&lt;sub&gt;&lt;br&gt;&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pEfZy9Puv7aSzIvBMWyQ-52" value="&lt;u&gt;Assumptions&lt;/u&gt;:&lt;br&gt;coffee ~ water&lt;br&gt;Negligible m&lt;sub&gt;water vapor&lt;br&gt;&lt;/sub&gt;Both creamers used equally &lt;br&gt;Coffee grounds retain about 2.2 times their mass of water &lt;br&gt;No losses of liquid in tubing &lt;br&gt;All coffee creamers have a density of 608.65 mg/mL&lt;sub&gt;&lt;br&gt;&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="480" width="290" height="150" as="geometry" />
         </mxCell>
         <mxCell id="pEfZy9Puv7aSzIvBMWyQ-53" value="m = 144.25 g" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -146,6 +146,27 @@
         </mxCell>
         <mxCell id="pEfZy9Puv7aSzIvBMWyQ-57" value="water&lt;br&gt;V = 318 mL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="512.5" y="190" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pEfZy9Puv7aSzIvBMWyQ-58" value="T = 151.7 C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pEfZy9Puv7aSzIvBMWyQ-59" value="E = 25W" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pEfZy9Puv7aSzIvBMWyQ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424.4099999999999" y="100" as="sourcePoint" />
+            <mxPoint x="424.4099999999999" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pEfZy9Puv7aSzIvBMWyQ-61" value="E = 25W" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pEfZy9Puv7aSzIvBMWyQ-62" value="E = 25W" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pEfZy9Puv7aSzIvBMWyQ-63" value="E = 25W" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
